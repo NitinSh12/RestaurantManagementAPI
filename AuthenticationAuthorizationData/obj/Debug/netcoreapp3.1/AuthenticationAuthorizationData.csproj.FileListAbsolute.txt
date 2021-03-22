@@ -1,0 +1,12 @@
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.deps.json
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.AssemblyInfoInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.AssemblyInfo.cs
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.runtimeconfig.json
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.runtimeconfig.dev.json
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationData\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationData.genruntimeconfig.cache

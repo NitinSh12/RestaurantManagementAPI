@@ -1,0 +1,12 @@
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.deps.json
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\bin\Debug\netcoreapp3.1\AuthenticationAuthorizationData.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.AssemblyInfoInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.AssemblyInfo.cs
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.csproj.CopyComplete
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSql\obj\Debug\netcoreapp3.1\AuthenticationAuthorizationSql.pdb

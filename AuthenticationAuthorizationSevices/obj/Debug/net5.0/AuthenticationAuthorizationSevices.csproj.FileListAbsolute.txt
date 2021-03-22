@@ -1,0 +1,17 @@
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationSevices.deps.json
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationSevices.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\ref\AuthenticationAuthorizationSevices.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationSevices.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationData.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationDomain.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationData.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\bin\Debug\net5.0\AuthenticationAuthorizationDomain.pdb
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.AssemblyInfoInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.AssemblyInfo.cs
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.csproj.CopyComplete
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\ref\AuthenticationAuthorizationSevices.dll
+C:\Users\nitin\source\repos\AuthenticationAuthorizationApis\AuthenticationAuthorizationSevices\obj\Debug\net5.0\AuthenticationAuthorizationSevices.pdb
